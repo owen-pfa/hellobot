@@ -1,0 +1,9 @@
+{
+  "name": "hellobot",
+  "version": "0.0.1",
+  "main": "slack_bot.js",
+  "devDependencies": {
+    "botkit": "~0.2.2",
+    "os": "~0.1.1"
+  }
+}
